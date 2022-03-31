@@ -1,0 +1,4 @@
+{
+  "type": "module",
+  "main": "./easy/06_Valid-Parentheses.js"
+}
