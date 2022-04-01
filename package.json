@@ -1,4 +1,4 @@
 {
   "type": "module",
-  "main": "./easy/06_Valid-Parentheses.js"
+  "main": "./medium/153-find-minimum-in-rotated-sorted-array.js"
 }
