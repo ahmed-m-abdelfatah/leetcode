@@ -72,6 +72,7 @@ console.log(merge([0], 0, [1], 1));
 
 /*
 Done before 20m = false
+my solution = false
 -------------------------------------------------------------
 More info:
 LEETCODE 88 (JAVASCRIPT) | MERGE SORTED ARRAY

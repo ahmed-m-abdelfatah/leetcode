@@ -58,6 +58,7 @@ console.log(twoSum([3, 3], 6));
 
 /*
 Done before 20m = true
+my solution = true
 -------------------------------------------------------------
 More info:
 

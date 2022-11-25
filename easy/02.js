@@ -68,6 +68,7 @@ var mergeTwoLists = function (list1, list2) {
 
 /*
 Done before 20m = false
+my solution = false
 -------------------------------------------------------------
 More info:
 
