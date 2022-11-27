@@ -1,4 +1,7 @@
 {
   "type": "module",
-  "main": "./easy/03.js"
+  "main": "./easy/04.js",
+  "scripts": {
+    "dev": "nodemon"
+  }
 }
